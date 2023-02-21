@@ -1,3 +1,16 @@
-//
-// Created by igor on 21.02.23.
-//
+#include <iostream>
+
+void test(){
+    std::cout << "Hello\n" << "\n";
+}
+
+
+int main(){
+
+
+    return 0;
+}
+
+
+
+
